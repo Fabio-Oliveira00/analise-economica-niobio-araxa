@@ -41,7 +41,7 @@ A análise revela um contraste importante no impacto econômico da mineração e
 ## 📄 Trabalho Completo
 Para uma análise detalhada da fundamentação teórica, revisão de literatura e discussão dos resultados, o TCC completo está disponível no link abaixo:
 
-* [Download do TCC em PDF](seu-arquivo-tcc.pdf)
+* [Download do TCC em PDF](TCC_Fabio_Araxa_Niobio.pdf)
 
 ---
 
