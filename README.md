@@ -34,7 +34,7 @@ A análise revela um contraste importante no impacto econômico da mineração e
 
 | PIB per capita (Crescimento) | VAB Serviços (Estagnação) |
 |:---:|:---:|
-| ![Gráfico PIB](03-visualizacao/01_Resultado_PIB_pc.png) | ![Gráfico VAB](03-resultados-graficos/03_resultado_vab_servicos.png) |
+| ![Gráfico PIB](03-visualizacao/01_Resultado_PIB_pc.png) | ![Gráfico VAB](03-visualizacao/03_Resultado_vab_servicos.png) |
 
 ---
 
